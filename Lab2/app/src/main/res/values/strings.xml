@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Lab2</string>
+
+    <!-- Greeting -->
+    <string name="greeting_label">Say hello</string>
+    <string name="greeting_show">Hi!</string>
+
+    <!-- Counters -->
+    <string name="counter_show">I counted %1$d %2$s</string>
+    <!-- Crows counter -->
+    <string name="crows_counter_label">Counting crows</string>
+    <plurals name="crows_plurals">
+        <item quantity="one">crow</item>
+        <item quantity="other">crows</item>
+    </plurals>
+    <!-- Cats counter-->
+    <string name="cats_counter_label">Counting cats</string>
+    <plurals name="cats_plurals">
+        <item quantity="one">cat</item>
+        <item quantity="other">cats</item>
+    </plurals>
+    <!-- -->
+
+</resources>
