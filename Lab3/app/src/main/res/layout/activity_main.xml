@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/traffic_light_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/red_light_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/buttons_margin"
+        android:text="@string/red" />
+
+    <Button
+        android:id="@+id/yellow_light_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/buttons_margin"
+        android:text="@string/yellow" />
+
+    <Button
+        android:id="@+id/green_light_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/buttons_margin"
+        android:text="@string/green" />
+
+    <TextView
+        android:id="@+id/light_output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/buttons_margin"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold" />
+
+</LinearLayout>

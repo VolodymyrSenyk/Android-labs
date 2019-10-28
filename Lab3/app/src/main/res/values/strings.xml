@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Светофор</string>
+
+    <!-- Traffic light -->
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+</resources>
