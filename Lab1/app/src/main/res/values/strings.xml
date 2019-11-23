@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Lab1</string>
+
+    <!-- Log in -->
+    <string name="log_in_label">Please introduce yourself</string>
+    <string name="log_in_hint">Name</string>
+    <string name="log_in_button">Continue</string>
+
+    <!-- Greeting -->
+    <string name="greeting">Welcome, %1$s!</string>
+
+    <!-- Counter -->
+    <string name="counter_show">You pressed the button %1$d times</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App theme -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#303030</color>
+
+    <!-- Traffic light -->
+    <color name="colorRed">#FF0000</color>
+    <color name="colorYellow">#FFD700</color>
+    <color name="colorGreen">#008000</color>
+</resources>
