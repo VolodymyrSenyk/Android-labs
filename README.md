@@ -1,2 +1,2 @@
 # Android-labs
-Repository for laboratory works on the course of technology of mobile systems development
+Repository for laboratory works on the course of "Technology of mobile systems development"
